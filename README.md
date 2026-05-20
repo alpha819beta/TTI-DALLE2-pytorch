@@ -1312,3 +1312,6 @@ For detailed information on training the diffusion prior, please refer to the [d
 
 ## Made By
 Alpha
+
+## Contributer
+Ben
